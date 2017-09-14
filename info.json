@@ -1,0 +1,17 @@
+{
+  
+  "name" : "",
+  "description" : "",
+  "keywords" : [],
+  "license" : "MIT",
+  "type" : "project",
+  "authors" : ["Бруснёв","Ванский","Авсиевич"],
+  "require" :{
+  	"php" : "*",
+  	"JavaScript" : "*",
+  	"JQuery" : "*"
+  },
+  "requre-dev" : {
+
+  }
+}
